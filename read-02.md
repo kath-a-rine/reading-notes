@@ -26,6 +26,17 @@ Within the terminal is a shell. The shell defines how the temrinal behaves and l
 
 ### Basic Navigation
 
-**pwd** - Print Working Directory
+**pwd** - Print Working Directory, tells you where the current working directory is
 
-### About Files
+**ls**. - list, what is in the current location
+
+**paths** - "a means to get to a particular file or directory"
+
+* **absolute paths** - specify a location in relation to the root directory 
+* **relative paths** - specify a location in relation to where we are currently in the system
+
+**cd** - change directory, move to another directory
+
+**file** - learn what type of file a file or directory is
+
+**ls -a** - lists the contents of a directory
