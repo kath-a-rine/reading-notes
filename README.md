@@ -1,7 +1,5 @@
 # Katharine's Reading Notes
 
-## This is my collection of notes for Code Fellows 102
-
 Hi! I'm Katharine. I am just beginning my coding journey! You can follow along by visitng my [GitHub profile](https://github.com/kath-a-rine)!
 
 #### What is growth mindset?
