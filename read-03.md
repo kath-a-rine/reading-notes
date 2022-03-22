@@ -31,14 +31,14 @@ Cloning is how you can copy an existing Git repository from a server and move it
 
 ### Essential Commands 
 
-**Git status** - determines the state of a file
+**git status** - determines the state of a file
 
-**Git add *filename*** - adds your new file
+**git add *filename*** - adds your new file
 
-**Git commit -m “comments”** - saves your changes to your file and allows you to comment what changes were made. Comments are essential to letting others know what you have done. *As a rule keep all comments to 50 characters or less.*
+**git commit -m “comments”** - saves your changes to your file and allows you to comment what changes were made. Comments are essential to letting others know what you have done. *As a rule keep all comments to 50 characters or less.*
 
-**Git commit -a** - commits a snapshot of all changes to tracked files
+**git commit -a** - commits a snapshot of all changes to tracked files
 
-**Git push origin main** - pushes changes from the local to the remote repository[^1].
+**git push origin main** - pushes changes from the local to the remote repository[^1].
 
 [^1]: this whole page was made in VSCode and pushed to GitHub via the terminal!
