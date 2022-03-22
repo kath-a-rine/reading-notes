@@ -12,14 +12,20 @@ Text editors allow you to write code more easily. Some will include something ca
 
 ***The "best" text editor will be the one you like to use with features that are helpful to you.*** 
 
-### Integrated Development Environments (IDEs) and Text Editors
+### Integrated Development Environments (IDEs)
 
 While a text editor edits text, an IDE is much more rolled into one. 
 
 > "An IDE is a text editor, a file manager, a compiler, and a debugger all in one software package." - [*Choosing a Text Editor*](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf), The Older Coder
 
-### The Command Line
+### The Command Line AKA the Terminal
+
+The terminal is a text based interface. As you enter commands into the terminal and receive feedback from the system in text. As a Mac user, I access my termial through **Applications -> Utilities**. 
+
+Within the terminal is a shell. The shell defines how the temrinal behaves and looks as it executes your commands. 
 
 ### Basic Navigation
+
+**pwd** - Print Working Directory
 
 ### About Files
