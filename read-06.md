@@ -24,4 +24,3 @@ You decalre a variable with:
 Values are **assigned** to variables using `=`
 
 In JS `==` is used to signify something equals another
-

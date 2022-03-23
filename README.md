@@ -9,5 +9,7 @@ Hi! I'm Katharine. I am just beginning my coding journey! You can follow along b
 * [The Coders Computer](read-02.md)
 * [Git Tutorial](read-03.md)
 * [Wireframe and HTML](read-04.md)
+* [CSS](read-05.md)
+* [JavaScript](read-06.md)
 
 This site was built using [GitHub Pages](https://pages.github.com/).
