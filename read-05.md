@@ -14,15 +14,13 @@ CSS identifies an element and then applies style using properties.
 
 For example:
 
-`h1 {
-
+{h1 {
     color: brown;
 
     font-style: italic;
 
     border-height: 50px;
-  
-}`
+} }
 
 ## Cascading Order
 
