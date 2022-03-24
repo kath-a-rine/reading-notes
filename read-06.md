@@ -3,7 +3,9 @@
 JavaScript (JS) is a programming language that allows you to create interactive and dynamic websites.
 
 **HTML** - what you read
+
 **CSS** - what you see
+
 **JavaScript** - what you do
 
 JavaScript responds to user input. Examples of JS in action could inclue: a popup box, a form where you would input your name or other information, messages tailored to you based on your inputs.
