@@ -11,5 +11,7 @@ Hi! I'm Katharine. I am just beginning my coding journey! You can follow along b
 * [Wireframe and HTML](read-04.md)
 * [CSS](read-05.md)
 * [JavaScript](read-06.md)
+* [Programming with JavaScript](read-07.md)
+* [Operators and Loops](read-08.md)
 
 This site was built using [GitHub Pages](https://pages.github.com/).
