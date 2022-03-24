@@ -42,3 +42,5 @@ Cloning is how you can copy an existing Git repository from a server and move it
 **git push origin main** - pushes changes from the local to the remote repository[^1].
 
 [^1]: this whole page was made in VSCode and pushed to GitHub via the terminal!
+
+[Return Home](README.md)

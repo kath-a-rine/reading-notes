@@ -40,3 +40,5 @@ Within the terminal is a shell. The shell defines how the temrinal behaves and l
 **file** - learn what type of file a file or directory is
 
 **ls -a** - lists the contents of a directory
+
+[Return Home](README.md)

@@ -23,5 +23,6 @@ Visit [basic writing and formatting syntax](https://docs.github.com/en/get-start
 
 Using [GitHub pages](https://docs.github.com/en/pages) you can create all kinds of content: open source projects, blogs, a personal webpage showcasing your portfolio. The 🌏 is your 🦪!
 
+[Return Home](README.md)
 
 [^1]: hello! I am a footnote! :)

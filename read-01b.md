@@ -11,3 +11,5 @@ Growth mindset is the belief that learning and knowledge is something that can b
 * You are a **learner**. You may not understand a new concept....**yet**. With perseverance you will understand.
 * Be self-reflective. Notice when you feel frustration or begin to lose focus. Ask yourself what contributes to those feelings.
 * Be comfortable with the uncomfortable.
+
+[Return Home](README.md)

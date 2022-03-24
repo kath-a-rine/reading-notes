@@ -57,4 +57,6 @@ Elements inside other elements are said to be nesting. Elements must be properly
 
 Semantics refers to the meaning of a peice of code. 
 
-Refer to [this article on semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics) to learn more and see a list of some semantic elements. There about 100 semantic elements. 
+Refer to [this article on semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics) to learn more and see a list of some semantic elements. There about 100 semantic elements.
+
+[Return Home](README.md)
