@@ -4,6 +4,25 @@ Hi! I'm Katharine. I am just beginning my coding journey! You can follow along b
 
 ## Table of Contents
 
+### Code 201 Reading Notes
+
+* [Reading Assignment Title]
+* [Reading Assignment Title]
+* [Reading Assignment Title]
+* [Reading Assignment Title]
+* [Reading Assignment Title]
+* [Reading Assignment Title]
+* [Reading Assignment Title]
+* [Reading Assignment Title]
+* [Reading Assignment Title]
+* [Reading Assignment Title]
+* [Reading Assignment Title]
+* [Reading Assignment Title]
+* [Reading Assignment Title]
+* [Reading Assignment Title]
+* [Reading Assignment Title]
+
+### Code 102 Reading Notes
 * [Growth Mindset](read-01b.md)
 * [Mastering Markdown](read-01.md)
 * [The Coders Computer](read-02.md)
@@ -14,4 +33,4 @@ Hi! I'm Katharine. I am just beginning my coding journey! You can follow along b
 * [Programming with JavaScript](read-07.md)
 * [Operators and Loops](read-08.md)
 
-This site was built using [GitHub Pages](https://pages.github.com/).
+***This site was built using [GitHub Pages](https://pages.github.com/).***
