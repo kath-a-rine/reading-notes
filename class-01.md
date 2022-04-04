@@ -10,7 +10,7 @@ HTML and CSS are the foundations to web development. Every website uses HTML and
 
 ## HTML Structure
 
-HTML forms the structure of a webpage. Structure determines how a reader will understand a page. Heading and sub headings provide context for the paragraph text below.
+HTML forms the structure of a webpage. Structure determines how a reader will understand a page. Heading and subheadings provide context for the paragraph text below.
 
 **HTML elements** - characters inside angled brackets. Made up of **tags** (opening and usually closing). *Elements provide information about what is in-between the tags.*
 
@@ -48,7 +48,7 @@ Comments are made using the following characters and format: `<! — comment tex
 
 **ID attribute** - A unique identifier for an element. Can be used in any type of element. Allows you to style a specific element using its id. 
 
-**Class attribute** - can identify several elements in your code. The value describes what class it belongs to. In CSS you can assign characteristics to different classes, affecting all elements within that class. 
+**Class attribute** - can identify several elements in your code. The value describes what class it belongs to. In CSS you can assign characteristics to different classes, affecting all elements within that class.
 
 **Block elements** - start a new line in the browser. Examples of block level elements: `<h1>, <p>, <ul>, <li>.`
 
@@ -62,7 +62,7 @@ Use the `<span>` element to "contain a section of text where there is no other s
 
 **`<meta>` element** - used inside the `<head>` element to contain information about the page.
 
-**escape characters** - used in HTML to show speciic characters such as an ampersand (&).
+**escape characters** - used in HTML to show specific characters such as an ampersand (&).
 
 [Named character references - HTML living standard](https://html.spec.whatwg.org/multipage/named-characters.html#named-character-references)
 
@@ -82,7 +82,7 @@ Example HTML5 elements:
 
 When building your site, it is important to understand who your audience is and what their motivation will be to visit your site.
 
-**Site Maps** - a diagram of your site showing how pages are grouped
+**Sitemaps** - a diagram of your site showing how pages are grouped
 
 **Wireframes** - a sketch of your webpage with its most basic content. A wireframe shows what goes where on your page. It will not include design such as colors or fonts.
 
@@ -107,7 +107,7 @@ A *script* is a series of instructions a computer can follow. When writing a scr
 
 **Syntax** - how the vocabulary is assembled to create insturctions the computer can follow.
 
-Computers complete or solve tasks ***programatically.***
+Computers complete or solve tasks ***programmatically.***
 
 Computers require data to define the world we are trying to create.
 
@@ -117,7 +117,7 @@ An **event** is when something occurs. A user clicking on a specific button is a
 
 **Methods** tell you something about an object and can "change the value of one or more of that object's properties." *(Duckett, Jon. JavaScript and JQuery: interactive front-end web development, p. 32)*
 
->Computers use data to create models of things in the real world. The events, methods, and properties of an object all releate to each other. ***Events can trigger methods, and methods can retrieve or update an object's properties.*** - *Duckett, Jon. JavaScript and JQuery: interactive front-end web development (p. 34)*
+>Computers use data to create models of things in the real world. The events, methods, and properties of an object all relate to each other. ***Events can trigger methods, and methods can retrieve or update an object's properties.*** - *Duckett, Jon. JavaScript and JQuery: interactive front-end web development (p. 34)*
 
 ***HTML is the content of the webpage. CSS is how that content is presented. JavaScript is the action on the page.***
 
