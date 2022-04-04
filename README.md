@@ -6,7 +6,7 @@ Hi! I'm Katharine. I am just beginning my coding journey! You can follow along b
 
 ### Code 201 Reading Notes
 
-* [Reading Assignment Title]
+* [Introductory HTML and JavaScript](class-01.md)
 * [Reading Assignment Title]
 * [Reading Assignment Title]
 * [Reading Assignment Title]
