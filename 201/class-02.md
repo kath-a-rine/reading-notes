@@ -78,3 +78,62 @@ CSS applies rules to HTML elements. A rule contains a selector and a declaration
 CSS selectors target specific elements within an HTML page.
 
 [CSS Selector Reference](https://www.w3schools.com/cssref/css_selectors.asp )
+
+## Basic JavaScript Instructions
+
+**Statement** - individual steps or instructions
+
+**Comments** - use comments in your code to explain what your code does.
+
+`//` - used for single line comments
+`/* */` - used for multi line comments or blocking out lines of code to prevent script from running.
+
+**Variable** - data is stored in variables. Data can change each time a script runs. 
+
+**Declare a variable** - create the variable and give it a name using `let` or `const`
+
+Assign value to the named variable using `=` (*assignment operator*)
+
+A variable is ***undefined*** until it is assigned a value
+
+**Numeric Data** - numbers, not written in quotes
+
+**String Data** - letters and characters set in matching quotes (single or double). Strings must always be in one line.
+
+**Boolean Data** - `true` or `false`
+
+***Rules for Naming Variables***
+
+source: Duckett, Jon. *JavaScript & JQuery: interactive front-end web development* p. 69
+
+1. The name must begin with a letter, dollar sign, or an underscore. It must not start with a number.
+
+2. The name can contain letters, numbers, dollar sign, or an underscore. Note that you must not use a dash or a period in a variable name.
+
+3. You cannot use keywords or reserved words.
+
+4. All variables are case sensitive
+
+5. Use a name that describes the kind of information that the variable stores.
+
+6. useCamelCase
+
+**Array** - stores a list of values. each item in an array is given a number (an index). Access items with the name and index number in square brackets.
+
+## Decisions and Loops
+
+**Conditional Statements** - if/then/else
+
+[Comparison Operators - w3schools](https://www.w3schools.com/js/js_comparisons.asp)
+
+Logical operators compare results of more than one comparison operator.
+
+`&&` - logical and
+
+`||` - logical or
+
+`!` - logical not
+
+## Things I want to know more about
+
+- Where does the `<abbr>` title or cite with url source show up? only in the code?
