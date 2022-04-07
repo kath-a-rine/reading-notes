@@ -8,7 +8,7 @@ Hi! I'm Katharine. I am just beginning my coding journey! You can follow along b
 
 * [Introductory HTML and JavaScript](class-01.md)
 * [Basics of HTML, CSS, and JavaScript](/201/class-02.md)
-* [Reading Assignment Title]
+* [TML Links, CSS Layout, JS Functions](201/class-04.md)
 * [Reading Assignment Title]
 * [Reading Assignment Title]
 * [Reading Assignment Title]
