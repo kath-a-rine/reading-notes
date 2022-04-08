@@ -6,10 +6,10 @@ Hi! I'm Katharine. I am just beginning my coding journey! You can follow along b
 
 ### Code 201 Reading Notes
 
-* [Introductory HTML and JavaScript](class-01.md)
+* [Introductory HTML and JavaScript](201/class-01.mdclass-01.md)
 * [Basics of HTML, CSS, and JavaScript](/201/class-02.md)
-* [TML Links, CSS Layout, JS Functions](201/class-04.md)
-* [Reading Assignment Title]
+* [HTML Links, CSS Layout, JS Functions](201/class-04.md)
+* [Images, Color, and Text](201/class-05.md)
 * [Reading Assignment Title]
 * [Reading Assignment Title]
 * [Reading Assignment Title]
