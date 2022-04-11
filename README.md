@@ -10,7 +10,7 @@ Hi! I'm Katharine. I am just beginning my coding journey! You can follow along b
 * [Basics of HTML, CSS, and JavaScript](/201/class-02.md)
 * [HTML Links, CSS Layout, JS Functions](201/class-04.md)
 * [Images, Color, and Text](201/class-05.md)
-* [Reading Assignment Title]
+* [JS Object Literals and the DOM](201/class-06.md)
 * [Reading Assignment Title]
 * [Reading Assignment Title]
 * [Reading Assignment Title]
