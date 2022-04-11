@@ -38,3 +38,7 @@ Primitive value assigned to a variable
 a variable assigned to an object contains a reference to the variable.
 
 Primite values are *immutable* (cannot be changed) and object references are *mutable*
+
+## Things I want to know more about
+
+* practice in the DOM tree
