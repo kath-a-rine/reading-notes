@@ -2,7 +2,7 @@
 
 you cannot set height and width to inline elements.
 
-BLock elements create new lines for themselves.
+Block elements create new lines for themselves.
 
 ***flexbox***
 
@@ -32,4 +32,4 @@ BLock elements create new lines for themselves.
 
 [CSS Podcast - 009: Layout](https://web.dev/learn/css/layout/)
 
-[Class 4 Reading Notes - Layout](201/class-04.md)
+[Class 4 Reading Notes - Layout](class-04.md)
