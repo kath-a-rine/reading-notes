@@ -12,7 +12,7 @@ Hi! I'm Katharine. I am just beginning my coding journey! You can follow along b
 * [Images, Color, and Text](201/class-05.md)
 * [JS Object Literals and the DOM](201/class-06.md)
 * [HTML Tables and JS Constructor Functions](201/class-07.md)
-* [Reading Assignment Title]
+* [More CSS Layout](201/class-08.md)
 * [Reading Assignment Title]
 * [Reading Assignment Title]
 * [Reading Assignment Title]
