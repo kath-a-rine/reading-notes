@@ -13,7 +13,7 @@ Hi! I'm Katharine. I am just beginning my coding journey! You can follow along b
 * [JS Object Literals and the DOM](201/class-06.md)
 * [HTML Tables and JS Constructor Functions](201/class-07.md)
 * [More CSS Layout](201/class-08.md)
-* [Reading Assignment Title]
+* [Forms and JS Events](201/class-09.md)
 * [Reading Assignment Title]
 * [Reading Assignment Title]
 * [Reading Assignment Title]
@@ -23,6 +23,7 @@ Hi! I'm Katharine. I am just beginning my coding journey! You can follow along b
 * [Reading Assignment Title]
 
 ### Code 102 Reading Notes
+
 * [Growth Mindset](read-01b.md)
 * [Mastering Markdown](read-01.md)
 * [The Coders Computer](read-02.md)
