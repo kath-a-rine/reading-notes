@@ -66,6 +66,10 @@ scripts respond to events that occur in the browser. events can trigger code in 
 
 [mdn - event handling overview](https://developer.mozilla.org/en-US/docs/Web/Events/Event_handlers)
 
+*DOM event handlers* - `element.event = functionName;`
+
+*DOM event listeners* - `element.addEventListener('event', functionName [, Boolean (usually set to false)])`
+
 ## Things I want to know more about
 
 * practice styling tables
