@@ -36,7 +36,11 @@ Debugging is the process of finding errors in code.
 * console.warn() - for warnings
 * console.error() - to hold errors
 * console.group() - group messages together. use console.groupEnd() to indicate end of the grouped messages
-* console.table() - oputs table with objects and arrays within other objects or arrays
+* console.table() - outputs table with objects and arrays within other objects or arrays
 * console.assert() - test condition, writes to console if `false`
 
 see pages 484 - 485 in Duckett's JavaScript and jQuery for debugging tips and common errors
+
+## Things I want to know more about
+
+practice debugging. using colsole methods.

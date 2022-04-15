@@ -4,7 +4,7 @@
 
 `<form>` - form controls are inside a form element
 
-`<form action ="URL of page recieving information from the form" method="get or post">`
+`<form action ="URL of page receiving information from the form" method="get or post">`
 
 * `get` - for short forms. when you are getting data from a web server.
 * `post` - form is long. users can upload data. contains sensitive data. adds or deletes information from a database.
@@ -61,7 +61,7 @@ scripts respond to events that occur in the browser. events can trigger code in 
 >**Event handling** - steps that trigger JS code following user interaction
 
 >1. select element nodes you want the script to respond to.
->2. indicate which event on those nodes will trigger the reponse. (binding an event to DOM node)
+>2. indicate which event on those nodes will trigger the response. (binding an event to DOM node)
 >3. state the code you want to run when the event occurs.
 
 [mdn - event handling overview](https://developer.mozilla.org/en-US/docs/Web/Events/Event_handlers)
