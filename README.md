@@ -14,7 +14,7 @@ Hi! I'm Katharine. I am just beginning my coding journey! You can follow along b
 * [HTML Tables and JS Constructor Functions](201/class-07.md)
 * [More CSS Layout](201/class-08.md)
 * [Forms and JS Events](201/class-09.md)
-* [Reading Assignment Title]
+* [JS Debugging](201/class-10.md)
 * [Reading Assignment Title]
 * [Reading Assignment Title]
 * [Reading Assignment Title]
