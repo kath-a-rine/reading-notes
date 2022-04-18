@@ -15,7 +15,7 @@ Hi! I'm Katharine. I am just beginning my coding journey! You can follow along b
 * [More CSS Layout](201/class-08.md)
 * [Forms and JS Events](201/class-09.md)
 * [JS Debugging](201/class-10.md)
-* [Reading Assignment Title]
+* [Assorted Topics - Images, Audio/Video, SEO](201/class-11.md)
 * [Reading Assignment Title]
 * [Reading Assignment Title]
 * [Reading Assignment Title]
