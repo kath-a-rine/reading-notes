@@ -16,7 +16,7 @@ Hi! I'm Katharine. I am just beginning my coding journey! You can follow along b
 * [Forms and JS Events](201/class-09.md)
 * [JS Debugging](201/class-10.md)
 * [Assorted Topics - Images, Audio/Video, SEO](201/class-11.md)
-* [Reading Assignment Title]
+* [Charts.js, Canvas](201/class-12.md)
 * [Reading Assignment Title]
 * [Reading Assignment Title]
 * [Reading Assignment Title]
