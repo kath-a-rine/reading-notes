@@ -16,4 +16,5 @@ HTML5 stroage is accessed though the object `localStorage` on the global object 
 
 *"Data is stored as strings. If you are storing something other than a string, you’ll need to coerce it yourself when you retrieve it."*
 
+[mdn - Client-side Storage](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage)
 [mdn - Web Storage API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API)
