@@ -13,3 +13,7 @@ the `transform` property allows elements to be tranformed either in 2d or 3d.
 3d transformations work on x, y, and z axes. 3d defines the depth of an element as well as length and width.
 
 transition related properties change an element when a state change occurs.
+
+[Transitions and Animations](https://learn.shayhowe.com/advanced-html-css/transitions-animations/)
+
+[Transforms](https://learn.shayhowe.com/advanced-html-css/css-transforms/)
