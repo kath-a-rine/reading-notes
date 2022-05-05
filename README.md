@@ -1,10 +1,20 @@
-# Katharine's Reading Notes
+# Reading Notes
 
 Hi! I'm Katharine. I am just beginning my coding journey! You can follow along by visitng my [GitHub profile](https://github.com/kath-a-rine)!
 
-## Table of Contents
+## Code 102 - Intro to Software Development
 
-### Code 201 Reading Notes
+* [Growth Mindset](102/read-01.md)
+* [Mastering Markdown](102/read-01.md)
+* [The Coders Computer](102/read-02.md)
+* [Git Tutorial](102/read-03.md)
+* [Wireframe and HTML](102/read-04.md)
+* [CSS](102/read-05.md)
+* [JavaScript](102/read-06.md)
+* [Programming with JavaScript](102/read-07.md)
+* [Operators and Loops](102/read-08.md)
+
+## Code 201 - Foundations of Software Development
 
 * [Introductory HTML and JavaScript](201/class-01.mdclass-01.md)
 * [Basics of HTML, CSS, and JavaScript](/201/class-02.md)
@@ -17,21 +27,11 @@ Hi! I'm Katharine. I am just beginning my coding journey! You can follow along b
 * [JS Debugging](201/class-10.md)
 * [Assorted Topics - Images, Audio/Video, SEO](201/class-11.md)
 * [Charts.js, Canvas](201/class-12.md)
-* [Reading Assignment Title]
-* [Reading Assignment Title]
-* [Reading Assignment Title]
-* [Reading Assignment Title]
 
-### Code 102 Reading Notes
+## Code 301 - Intermediate Software Development
 
-* [Growth Mindset](read-01b.md)
-* [Mastering Markdown](read-01.md)
-* [The Coders Computer](read-02.md)
-* [Git Tutorial](read-03.md)
-* [Wireframe and HTML](read-04.md)
-* [CSS](read-05.md)
-* [JavaScript](read-06.md)
-* [Programming with JavaScript](read-07.md)
-* [Operators and Loops](read-08.md)
+
+## Code 401 - Advanced Software Development
+
 
 ***This site was built using [GitHub Pages](https://pages.github.com/).***
