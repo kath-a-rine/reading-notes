@@ -30,6 +30,7 @@ Hi! I'm Katharine. I am just beginning my coding journey! You can follow along b
 
 ## Code 301 - Intermediate Software Development
 
+* [Introduction to React and Components](301/class-01.md)
 
 ## Code 401 - Advanced Software Development
 
