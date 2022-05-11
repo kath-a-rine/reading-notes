@@ -30,7 +30,7 @@ Props are outside the component and state is handled inside the component. Props
 
 3. When do we re-render our application?
 
-Applications are re-rendered when there is a change or update to their state or props.
+Applications are re-rendered when there is a change or update to their state.
 
 4. What are some examples of things that we could store in state?
 
@@ -38,4 +38,4 @@ Using the counter example, you would use state within the component to continual
 
 ## Things I want to know more about
 
-I have an okay handle on state versus prop and when it is appropriate to use. I'd like more practice using states and props cement that understanding.
+I have an okay handle on state versus prop and when it is appropriate to use. I'd like more practice using states and props to cement that understanding.
