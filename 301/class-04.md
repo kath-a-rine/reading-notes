@@ -12,10 +12,10 @@ Update the state with their responses as they are entered. `handleChange()` runs
 
 3. How do we target what the user is entering if we have an event handler on an input field?
 
-By adding a `name` attribute to each `input` element. The handler function will reposond based on the value of `event.target.name`.
+By adding a `name` attribute to each `input` element. The handler function will respond based on the value of `event.target.name`.
 
 
-[The Conditional (Ternary) Operator Explained}(https://codeburst.io/javascript-the-conditional-ternary-operator-explained-cac7218beeff)
+[The Conditional (Ternary) Operator Explained](https://codeburst.io/javascript-the-conditional-ternary-operator-explained-cac7218beeff)
 
 1. Why would we use a ternary operator?
 
