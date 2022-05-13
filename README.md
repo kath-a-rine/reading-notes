@@ -34,6 +34,7 @@ Hi! I'm Katharine. I am just beginning my coding journey! You can follow along b
 * [State and Props](301/class-02.md)
 * [Passing Functions as Props](301/class-03.md)
 * [React Forms](301/class-04.md)
+* [Putting it all together](301/class-05.md)
 
 ## Code 401 - Advanced Software Development
 
