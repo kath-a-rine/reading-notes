@@ -41,4 +41,5 @@ The map method will apply a function to all the elements of an array and return 
 ## Things I want to know more about
 
 Inverse data flow.
+
 I’d like more practice building with React and using the single responsibility principle.
