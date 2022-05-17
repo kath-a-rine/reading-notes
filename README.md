@@ -36,6 +36,7 @@ Hi! I'm Katharine. I am just beginning my coding journey! You can follow along b
 * [React Forms](301/class-04.md)
 * [Putting it all together](301/class-05.md)
 * [Node.js](301/class-06.md)
+* [REST](301/class-07.md)
 
 ## Code 401 - Advanced Software Development
 
