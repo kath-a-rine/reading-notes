@@ -1,5 +1,6 @@
+# APIs
 
-# API Design Best Practices
+## [API Design Best Practices](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 
 1. **What does REST stand for?** Representational State Transfer
 2. **REST APIs are designed around a ____.** Resource - any kind of object, data or service accessible by a client.
