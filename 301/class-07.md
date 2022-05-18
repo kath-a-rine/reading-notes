@@ -12,7 +12,7 @@
 
 3. What is the HTTP protocol that Fielding and his friends created?
 
-Applies verbs to nouns - GET, POST, PUT, PATCH, etc.
+* Applies verbs to nouns - GET, POST, PUT, PATCH, etc.
 
 4. What does a GET do?
 
@@ -42,7 +42,7 @@ Applies verbs to nouns - GET, POST, PUT, PATCH, etc.
 
 3. Yelp API - complete
 
-4. THe Movie DB API - complete
+4. The Movie DB API - complete
 
 ## Things I want to know more about
 

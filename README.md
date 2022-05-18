@@ -37,6 +37,7 @@ Hi! I'm Katharine. I am just beginning my coding journey! You can follow along b
 * [Putting it all together](301/class-05.md)
 * [Node.js](301/class-06.md)
 * [REST](301/class-07.md)
+* [API Design Best Practices](301/class-08.md)
 
 ## Code 401 - Advanced Software Development
 
