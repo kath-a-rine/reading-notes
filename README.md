@@ -39,6 +39,7 @@ Hi! I'm Katharine. I am just beginning my coding journey! You can follow along b
 * [REST](301/class-07.md)
 * [API Design Best Practices](301/class-08.md)
 * [Functional Programming](301/class-09.md)
+* [In Memory Storage](301/class-10.md)
 
 ## Code 401 - Advanced Software Development
 
