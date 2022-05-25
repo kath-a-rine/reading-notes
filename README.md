@@ -42,6 +42,7 @@ Hi! I'm Katharine. I am just beginning my coding journey! You can follow along b
 * [In Memory Storage](301/class-10.md)
 * [Mongo and Mongoose](301/class-11.md)
 * [CRUD](301/class-12.md)
+* [More CRUD](301/class-13.md)
 
 ## Code 401 - Advanced Software Development
 

@@ -25,4 +25,4 @@
 5. *What is the difference between PUT and PATCH?* - PATCH will update specified data, whereas PUT will update all data.
 6. *How do you make a default value in a schema?* - set a default key within the schema with a default value.
 7. *What does a 500 error status code mean?* - There is an error on the server, having nothing to do with user input.
-8. *What is the difference between a status 200 and a status 201?* - 200 is a general "sucessful" status whereas 201 is more specific. It means the creation of something, in this case an object, was successful.
+8. *What is the difference between a status 200 and a status 201?* - 200 is a general "successful" status whereas 201 is more specific. It means the creation of something, in this case an object, was successful.
