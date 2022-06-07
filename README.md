@@ -43,10 +43,16 @@ Hi! I'm Katharine. I am just beginning my coding journey! You can follow along b
 * [Mongo and Mongoose](301/class-11.md)
 * [CRUD](301/class-12.md)
 * [More CRUD](301/class-13.md)
-* [#Diversity and Inclusion in the Tech Industry](301/class-14.md)
+* [Diversity and Inclusion in the Tech Industry](301/class-14.md)
 * [Authentication](301/class-15.md)
 
 ## Code 401 - Advanced Software Development
 
+* [Learn SQL](401/prework-1.md)
+* Class-1
+* Class-2
+* Class-3
+* Class-4
+* Class-5
 
 ***This site was built using [GitHub Pages](https://pages.github.com/).***
