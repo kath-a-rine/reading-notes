@@ -4,16 +4,16 @@ SQL stands for Structured Query Language. Databases are organized into tables. U
 
 SQL Command Examples:
 
-`SELECT` - extracts data from a database
-`UPDATE` - updates data in a database
-`DELETE` - deletes data from a database
-`FROM` - specifies table
-`ORDER BY` - specify data display order. use `ASC` and `DESC` (ascending and descending)
-`LIMIT` - limit the number of results returned
-`OFFSET` - specify where the data returned will start from
-`WHERE` - set conditions to filter data (ex. WHERE column_name = specified_value)
-`CREATE TABLE` - creates a new table
-`ALTER TABLE` - modifies a table
+* `SELECT` - extracts data from a database
+* `UPDATE` - updates data in a database
+* `DELETE` - deletes data from a database
+* `FROM` - specifies table
+* `ORDER BY` - specify data display order. use `ASC` and `DESC` (ascending and descending)
+* `LIMIT` - limit the number of results returned
+* `OFFSET` - specify where the data returned will start from
+* `WHERE` - set conditions to filter data (ex. WHERE column_name = specified_value)
+* `CREATE TABLE` - creates a new table
+* `ALTER TABLE` - modifies a table
 
 ## Sources
 
