@@ -48,8 +48,9 @@ Hi! I'm Katharine. I am just beginning my coding journey! You can follow along b
 
 ## Code 401 - Advanced Software Development
 
-* [Learn SQL](401/prework-sql.md)
-* [The Command Line](401/command-line.md)
+* [Prep: Learn SQL](401/prework-sql.md)
+* [Prep: The Command Line](401/command-line.md)
+* [Prep: Software Engineering Readings](401/prework-engineering.md)
 * Class-1
 * Class-2
 * Class-3
