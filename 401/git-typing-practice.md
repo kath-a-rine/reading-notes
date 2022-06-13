@@ -2,6 +2,8 @@
 
 ## Git Practice
 
+![Git Practice](./git-practice.png)
+
 ## Typing Practice
 
 ![Practice 1](./typing-screenshots/1.png);
