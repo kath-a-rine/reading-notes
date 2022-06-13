@@ -51,6 +51,7 @@ Hi! I'm Katharine. I am just beginning my coding journey! You can follow along b
 * [Prep: Learn SQL](401/prework-sql.md)
 * [Prep: The Command Line](401/command-line.md)
 * [Prep: Software Engineering Readings](401/prework-engineering.md)
+* [Prep: Git and Typing Practice]
 * [Node Ecosystem](401/class-01.md)
 * Class-2
 * Class-3
