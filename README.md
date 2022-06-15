@@ -54,7 +54,7 @@ Hi! I'm Katharine. I am just beginning my coding journey! You can follow along b
 * [Prep: Git and Typing Practice](401/git-typing-practice.md)
 * [Node Ecosystem](401/class-01.md)
 * [Express, NPM, TDD, CI/CD](401/class-02.md)
-* Class-3
+* [Express Rest API](401/class-03.md)
 * Class-4
 * Class-5
 
