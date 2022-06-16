@@ -8,7 +8,7 @@ Objects
 
 ***Can a class declaration be hoisted?***
 
-Yes, however it's values are not initialized. Functions can be called in code before they are defined, but classes must be defined before they are constructed.
+No, as it's values are not initialized. Functions can be called in code before they are defined, but classes must be defined before they are constructed.
 
 ***How would you describe a constructor and contextual “this” to a non-technical friend?***
 

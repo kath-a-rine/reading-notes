@@ -55,7 +55,7 @@ Hi! I'm Katharine. I am just beginning my coding journey! You can follow along b
 * [Node Ecosystem](401/class-01.md)
 * [Express, NPM, TDD, CI/CD](401/class-02.md)
 * [Express Rest API](401/class-03.md)
-* Class-4
+* [Data Modeling](401/class-04.md)
 * Class-5
 
 ***This site was built using [GitHub Pages](https://pages.github.com/).***
