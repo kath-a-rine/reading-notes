@@ -56,6 +56,6 @@ Hi! I'm Katharine. I am just beginning my coding journey! You can follow along b
 * [Express, NPM, TDD, CI/CD](401/class-02.md)
 * [Express Rest API](401/class-03.md)
 * [Data Modeling](401/class-04.md)
-* Class-5
+* [Authentication](401/class-06.md)
 
 ***This site was built using [GitHub Pages](https://pages.github.com/).***
