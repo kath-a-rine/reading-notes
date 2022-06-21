@@ -6,9 +6,11 @@
 
 ***What is Bcrypt?***
 
+*"Bcrypt is an adaptive hash function based on the Blowfish symmetric block cipher cryptographic algorithm and introduces a work factor (also known as security factor), which allows you to determine how expensive the hash function will be."*  The BCrypt algorithm uses the *key stretching* technique.
+
 ***Why might you use something like Bcrypt?***
 
-Bycrpt can slow a brute force attack.
+BCyrpt can slow a brute force attack.
 
 ## [Basic Authentication](https://en.wikipedia.org/wiki/Basic_access_authentication)
 

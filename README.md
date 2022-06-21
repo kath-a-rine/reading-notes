@@ -57,5 +57,6 @@ Hi! I'm Katharine. I am just beginning my coding journey! You can follow along b
 * [Express Rest API](401/class-03.md)
 * [Data Modeling](401/class-04.md)
 * [Authentication](401/class-06.md)
+* [Bearer Authorization](401/class-07.md)
 
 ***This site was built using [GitHub Pages](https://pages.github.com/).***
