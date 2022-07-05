@@ -59,9 +59,10 @@ Hi! I'm Katharine. I am just beginning my coding journey! You can follow along b
 * [Authentication](401/class-06.md)
 * [Bearer Authorization](401/class-07.md)
 * [Access Control](401/class-08.md)
-* reading 9, 10, 11
+* reading 9, 10
 * [Event Driven Programming](401/class-11.md)
 * [Socket.io](401/class-12.md)
 * [Message Queues](401/class-13.md)
+* [AWS Cloud Servers](401/class-16.md)
 
 ***This site was built using [GitHub Pages](https://pages.github.com/).***
