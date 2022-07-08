@@ -65,5 +65,6 @@ Hi! I'm Katharine. I am just beginning my coding journey! You can follow along b
 * [Message Queues](401/class-13.md)
 * [AWS Cloud Servers](401/class-16.md)
 * [AWS: S3 and Lambda](401/class-17.md)
+* [AWS: API, Dynamo and Lambda](401/class-18.md)
 
 ***This site was built using [GitHub Pages](https://pages.github.com/).***
