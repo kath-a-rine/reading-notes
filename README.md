@@ -66,5 +66,8 @@ Hi! I'm Katharine. I am just beginning my coding journey! You can follow along b
 * [AWS Cloud Servers](401/class-16.md)
 * [AWS: S3 and Lambda](401/class-17.md)
 * [AWS: API, Dynamo and Lambda](401/class-18.md)
+* [AWS: Events](401/class-19.md)
+* [Component Based UI](401/class-26.md)
+* [`useState()` Hook](401/class-27.md)
 
 ***This site was built using [GitHub Pages](https://pages.github.com/).***
