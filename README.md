@@ -69,6 +69,9 @@ Hi! I'm Katharine. I am just beginning my coding journey! You can follow along b
 * [AWS: Events](401/class-19.md)
 * [Component Based UI](401/class-26.md)
 * [`useState()` Hook](401/class-27.md)
-* 
+* [`useEffect()` Hook](401/class-28.md)
+* [Advanced State with Reducers](401/class-29.md)
+* [Hash Tables](401/class30.md)
+* [Context API](401/class-31.md)
 
 ***This site was built using [GitHub Pages](https://pages.github.com/).***
