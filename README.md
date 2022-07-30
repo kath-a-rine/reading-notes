@@ -76,5 +76,6 @@ Hi! I'm Katharine. I am just beginning my coding journey! You can follow along b
 * [Context API - Behaviors](401/class-32.md)
 * [`<Login />` and `<Auth />`](401/class-33.md)
 * [API Integration](401/class-34.md)
+* [Graphs](401/class-35.md)
 
 ***This site was built using [GitHub Pages](https://pages.github.com/).***
